@@ -15,5 +15,7 @@ This checklist records work that should be completed before the repository is ma
 - [ ] Re-run at least dataset loading and one representative analysis path on the real data after the package refactor (e.g. notebook 02 for ds003061) and compare against the thesis tables.
 - [ ] Regenerate any lightweight derived result files intended for public distribution.
 - [ ] Confirm CRediT/authorship and public-release approval with all authors.
-- [ ] Create a versioned GitHub release.
-- [ ] Archive the release with Zenodo and add the DOI to `CITATION.cff`, README, manuscript, and Supplementary Material.
+- [x] Create a versioned GitHub release (v1.0.0).
+- [x] Archive the release with Zenodo (version DOI 10.5281/zenodo.24070051; concept DOI 10.5281/zenodo.24070050) and add the DOI to `CITATION.cff` and the README.
+- [ ] Add the version DOI to the manuscript and Supplementary Material.
+- [ ] Add the article DOI to `CITATION.cff` and the README on publication.

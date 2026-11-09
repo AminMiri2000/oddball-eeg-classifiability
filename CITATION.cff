@@ -12,6 +12,15 @@ authors:
 repository-code: "https://github.com/AminMiri2000/oddball-eeg-classifiability"
 license: "BSD-3-Clause"
 version: "1.0.0"
+doi: "10.5281/zenodo.24070051"
+date-released: "2026-11-09"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.24070051"
+    description: "Archived release v1.0.0"
+  - type: doi
+    value: "10.5281/zenodo.24070050"
+    description: "Concept DOI (all versions; resolves to the latest release)"
 keywords:
   - EEG
   - event-related potentials

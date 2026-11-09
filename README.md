@@ -2,6 +2,7 @@
 
 [![CI](https://github.com/AminMiri2000/oddball-eeg-classifiability/actions/workflows/ci.yml/badge.svg)](https://github.com/AminMiri2000/oddball-eeg-classifiability/actions/workflows/ci.yml)
 [![License: BSD-3-Clause](https://img.shields.io/badge/License-BSD_3--Clause-blue.svg)](LICENSE)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24070050.svg)](https://doi.org/10.5281/zenodo.24070050)
 
 Reproducibility code for:
 
@@ -144,8 +145,13 @@ results = evaluate_classical_benchmark(
 
 ## Citation
 
-Citation metadata is in [CITATION.cff](CITATION.cff). The article DOI and the
-archived software DOI will be added on publication.
+The code is archived on Zenodo:
+
+- **v1.0.0** (the version used in the article): [10.5281/zenodo.24070051](https://doi.org/10.5281/zenodo.24070051)
+- **All versions** (always resolves to the latest release): [10.5281/zenodo.24070050](https://doi.org/10.5281/zenodo.24070050)
+
+Machine-readable citation metadata is in [CITATION.cff](CITATION.cff) (GitHub's
+"Cite this repository" button). The article DOI will be added on publication.
 
 ## License
 
