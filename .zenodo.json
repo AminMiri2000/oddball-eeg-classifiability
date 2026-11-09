@@ -1,0 +1,21 @@
+{
+  "title": "Oddball EEG Subject Classifiability Analysis",
+  "description": "Reproducibility code for a cross-dataset study of subject-level classifiability in oddball/ERP EEG using LDA, Logistic Regression, and EEGNet.",
+  "creators": [
+    {"name": "Miri, Seyed Mohammad Amin"},
+    {"name": "Butler, Russell"},
+    {"name": "Hedjam, Rachid"}
+  ],
+  "license": "bsd-3-clause",
+  "keywords": [
+    "EEG",
+    "event-related potentials",
+    "oddball",
+    "EEGNet",
+    "brain-computer interface",
+    "subject variability",
+    "signal quality",
+    "OpenNeuro"
+  ],
+  "upload_type": "software"
+}

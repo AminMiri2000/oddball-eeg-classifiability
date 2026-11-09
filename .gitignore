@@ -1,0 +1,46 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+.eggs/
+build/
+dist/
+.pytest_cache/
+.ruff_cache/
+.env
+.venv
+*.log
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+
+# Conda
+*.conda
+*.lock
+.env/
+
+# Raw EEG / large data
+/datasets/
+bids-data/
+derivatives/
+outputs/
+runs/
+/logs/
+
+# Generated analysis outputs are ignored by default
+/results/*
+
+# Curated lightweight journal outputs may be versioned
+!/results/README.md
+!/results/derived/
+!/results/derived/**
+
+# VSCode / IDE
+.vscode/
+.idea/

@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the associated article and software release."
+title: "Oddball EEG Subject Classifiability Analysis"
+type: software
+authors:
+  - family-names: "Miri"
+    given-names: "Seyed Mohammad Amin"
+  - family-names: "Butler"
+    given-names: "Russell"
+  - family-names: "Hedjam"
+    given-names: "Rachid"
+repository-code: "https://github.com/AminMiri2000/oddball-eeg-classifiability"
+license: "BSD-3-Clause"
+version: "1.0.0"
+keywords:
+  - EEG
+  - event-related potentials
+  - oddball
+  - EEGNet
+  - brain-computer interface
+  - subject variability
+  - signal quality
+  - OpenNeuro
+abstract: "Reproducibility code for a cross-dataset study of subject-level classifiability in oddball/ERP EEG using LDA, Logistic Regression, and EEGNet."
